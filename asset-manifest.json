@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nested-code/static/css/main.35972f45.css",
+    "main.js": "/nested-code/static/js/main.bc222bcf.js",
+    "static/js/787.739715e4.chunk.js": "/nested-code/static/js/787.739715e4.chunk.js",
+    "static/media/NestedCode.svg": "/nested-code/static/media/NestedCode.3e371d01b3fc43bc4060f4ca316ba8aa.svg",
+    "index.html": "/nested-code/index.html",
+    "main.35972f45.css.map": "/nested-code/static/css/main.35972f45.css.map",
+    "main.bc222bcf.js.map": "/nested-code/static/js/main.bc222bcf.js.map",
+    "787.739715e4.chunk.js.map": "/nested-code/static/js/787.739715e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35972f45.css",
+    "static/js/main.bc222bcf.js"
+  ]
+}
